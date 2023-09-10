@@ -4,11 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Hello World
-        </p>
-      </header>
+        <input className='search' type = "text" placeholder='Enter Something'/>
     </div>
   );
 }
